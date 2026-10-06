@@ -1,0 +1,8 @@
+{
+  "name": "chata-marianka",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statický web Chaty Mariánka pro GitHub Pages",
+  "scripts": { "build": "node scripts/build.mjs", "start": "node scripts/serve.mjs", "check": "node scripts/check.mjs", "test": "node --test scripts/behavior.test.mjs" },
+  "engines": { "node": ">=20" }
+}

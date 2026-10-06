@@ -1,0 +1,36 @@
+FOTOGRAFIE A LICENCE
+
+Chata a zázemí: všech 20 JPG souborů dodaných zadavatelem. Zmenšení,
+komprese do WebP/JPG, responzivní ořez v CSS; žádná změna skutečného obsahu.
+Logo Muonity: dodané muonity.png, pouze zmenšení při zachování proporcí.
+
+Léto: Palickap, 4. 7. 2021, CC BY-SA 4.0.
+https://commons.wikimedia.org/wiki/File:NPR_Jizerskohorsk%C3%A9_bu%C4%8Diny,_Pali%C4%8Dn%C3%ADk,_v%C3%BDhled_(1).jpg
+Výstup: public/assets/images/jizerky-leto*.
+Zmenšeno, komprimováno, responzivně oříznuto. Upravené soubory mají CC BY-SA 4.0.
+
+Zima: Andre-21, 1. 12. 2012, CC BY-SA 3.0.
+https://commons.wikimedia.org/wiki/File:Stopy_NMpS.JPG
+Výstup: public/assets/images/jizerky-zima*.
+Zmenšeno, komprimováno, responzivně oříznuto. Upravené soubory mají CC BY-SA 3.0.
+
+Ikony Lucide 0.468.0: public/assets/icons/LICENSE.txt (ISC).
+Leaflet 1.9.4: public/assets/vendor/leaflet-LICENSE.txt (BSD-2-Clause).
+Písma Barlow, Playfair Display, Caveat: public/assets/fonts/*-OFL.txt (SIL OFL).
+Vektorová horská značka byla vytvořena pro tento web.
+
+DEKORATIVNÍ LES
+Nástroj: vestavěný OpenAI image_gen/imagegen, jedna generace,
+transparent_background=true, bez referenčních fotografií.
+Původní výstup: forest-border.png, 1536×1024, průhledné PNG.
+Webový výstup: public/assets/images/forest-border.webp.
+Ilustrace není fotografií konkrétního místa.
+
+Použitý prompt:
+Use case: stylized-concept
+Asset type: purely decorative forest border illustration for a Czech mountain chalet website, used at the footer top and on a dark green seasonal section.
+Primary request: Create exactly one wide 1536x1024 transparent PNG showing a layered pine and spruce forest silhouette occupying the bottom 55% of the canvas.
+Style/medium: sophisticated watercolor and fine engraved botanical illustration, traditional mountain lodge feel, fine natural branches and softly brushed organic ground along the very bottom.
+Composition/framing: taller conifer trees at the left and right edges, lower rolling layers of forest in the middle. Preserve empty truly transparent upper space covering the upper 45%. Edge-to-edge forest band along the bottom, with varied natural tree sizes and delicate silhouettes.
+Color palette: muted forest green shades #17392d, #476456, and #7b8d79.
+Constraints: actual transparent background and alpha channel, no solid background or paper rectangle. Decorative illustration only. No text, no buildings, no photographic scenery, no logo, no watermark.
