@@ -1,0 +1,317 @@
+[
+  {
+    "route": "",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "ubytovani/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "cenik/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "fotogalerie/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "okoli/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "kontakt/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "poptavka/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "soukromi/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "zdroje/",
+    "width": 320,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 305
+  },
+  {
+    "route": "",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "ubytovani/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "cenik/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "fotogalerie/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "okoli/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "kontakt/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "poptavka/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "soukromi/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "zdroje/",
+    "width": 390,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 375
+  },
+  {
+    "route": "",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "ubytovani/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "cenik/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "fotogalerie/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "okoli/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "kontakt/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "poptavka/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "soukromi/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "zdroje/",
+    "width": 768,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 753
+  },
+  {
+    "route": "",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "ubytovani/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "cenik/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "fotogalerie/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "okoli/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "kontakt/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "poptavka/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "soukromi/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "zdroje/",
+    "width": 1024,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1009
+  },
+  {
+    "route": "",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "ubytovani/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "cenik/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "fotogalerie/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "okoli/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "kontakt/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "poptavka/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "soukromi/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  },
+  {
+    "route": "zdroje/",
+    "width": 1440,
+    "h1": 1,
+    "overflow": [],
+    "scroll": 1425
+  }
+]
